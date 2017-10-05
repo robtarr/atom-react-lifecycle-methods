@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lifecycle-highlighter",
+        "command": "lifecycle-highlighter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lifecycle-highlighter",
+          "submenu": [
+            {
+              "label": "Highlight",
+              "command": "lifecycle-highlighter:highlight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

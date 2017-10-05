@@ -1,0 +1,16 @@
+{
+  "name": "lifecycle-highlighter",
+  "main": "./lib/lifecycle-highlighter",
+  "version": "0.0.1",
+  "author": "Rob Tarr",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/robtarr/atom-react-lifecycle-methods",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
